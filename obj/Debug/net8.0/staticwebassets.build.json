@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oYZ+5nB2B1dZ/S4TQCTCCEPdQRGsS5uxrqZOSCyXllA=",
+  "Source": "AirBnbApi",
+  "BasePath": "_content/AirBnbApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
